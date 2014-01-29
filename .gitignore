@@ -16,6 +16,7 @@ src/test_catcoin
 Makefile
 catcoin-qt
 Catcoin-Qt.app
+Catcoin-Qt.dmg
 
 # Unit-tests
 Makefile.test
